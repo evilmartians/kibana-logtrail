@@ -4,6 +4,8 @@ This is a custom Docker image of [Kibana](https://github.com/elastic/kibana) wit
 
 It is based on an official image `docker.elastic.co/kibana/kibana` which includes X-Pack.
 
+<img src="https://cdn.evilmartians.com/badges/logo-no-label.svg" alt="Evil Martians logo" width="22" height="16" /> <b>kibana-logtrail</b> is built by <b><a href="https://evilmartians.com/">Evil Martians</a></b>, an American design and engineering consultancy for <b>developer tools, AI, and cybersecurity startups</b>.
+
 ## Why?
 
 Two reasons:
